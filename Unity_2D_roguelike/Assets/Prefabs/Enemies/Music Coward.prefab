@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5082445107988268902
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5681796623450566679, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 5681796623450566679, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782524, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_Name
+      value: Music Coward
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826150782526, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7291600826614118133, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 7cde44f7170014401b1c1f2ac8c1a440, type: 3}
+    - target: {fileID: 7522104753413517278, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8621655047359532629, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}
+      propertyPath: sleepingEnemy
+      value: 
+      objectReference: {fileID: 21300000, guid: a7193478794114695940b7717c3f4404, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 79b9b203e86c943f2bb014b616ded7b4, type: 3}

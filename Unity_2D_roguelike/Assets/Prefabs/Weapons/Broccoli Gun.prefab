@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4410758257271411255
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 93382355768687114, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_Name
+      value: Broccoli Gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 2440132520948369926, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3830915375481758924, guid: b1ee9dc2fe94e49b982ff7338788ce64, type: 3}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.34
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.226
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.48264623
+      objectReference: {fileID: 0}
+    - target: {fileID: 3904593974694188223, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.54731506
+      objectReference: {fileID: 0}
+    - target: {fileID: 5596862032519795163, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: bulletToFire
+      value: 
+      objectReference: {fileID: 4588868012185660870, guid: 711316869118a4dd7ac58ac7cbaaab88, type: 3}
+    - target: {fileID: 5596862032519795163, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: gunUI
+      value: 
+      objectReference: {fileID: -920991111874461626, guid: fcb0d8e55f300449eb078fddc47fb8db, type: 3}
+    - target: {fileID: 5596862032519795163, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: weaponName
+      value: Broccoli Gun
+      objectReference: {fileID: 0}
+    - target: {fileID: 5596862032519795163, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}
+      propertyPath: timeBetweenShots
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bcb9ca0dd4de847f7a552de01ccf7a7d, type: 3}

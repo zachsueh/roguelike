@@ -1,0 +1,685 @@
+fileFormatVersion: 2
+guid: d9e93e9565e794a42a5ca5bdf367220a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5299561571541103614
+    second: DungeonLibrary_SolidObject_0
+  - first:
+      213: -7799596206640846373
+    second: DungeonLibrary_SolidObject_1
+  - first:
+      213: -3727445054752433129
+    second: DungeonLibrary_SolidObject_2
+  - first:
+      213: -5829964765869975437
+    second: DungeonLibrary_SolidObject_3
+  - first:
+      213: 7995739375233444945
+    second: Floor
+  - first:
+      213: -5193679177053737201
+    second: Candles
+  - first:
+      213: 8492221240616431626
+    second: Desk
+  - first:
+      213: 2449918120385257551
+    second: Globe
+  - first:
+      213: -4564434435743050354
+    second: DungeonLibrary_SolidObject_8
+  - first:
+      213: 2151535303778656553
+    second: DungeonLibrary_SolidObject_9
+  - first:
+      213: -6350614146957256615
+    second: DungeonLibrary_SolidObject_10
+  - first:
+      213: 5835816374154770827
+    second: DungeonLibrary_SolidObject_11
+  - first:
+      213: -6922771242134014337
+    second: DungeonLibrary_SolidObject_12
+  - first:
+      213: 3566997550417618264
+    second: DungeonLibrary_SolidObject_13
+  - first:
+      213: -3314328425097411231
+    second: DungeonLibrary_SolidObject_14
+  - first:
+      213: -2956053420758636812
+    second: DungeonLibrary_SolidObject_15
+  - first:
+      213: 5421328104135740598
+    second: DungeonLibrary_SolidObject_16
+  - first:
+      213: -6088523747950322731
+    second: DungeonLibrary_SolidObject_17
+  - first:
+      213: -7516779497616522811
+    second: DungeonLibrary_SolidObject_18
+  - first:
+      213: 4499732658681121217
+    second: DungeonLibrary_SolidObject_19
+  - first:
+      213: 3057147783749104893
+    second: DungeonLibrary_SolidObject_20
+  - first:
+      213: -4243277632068921819
+    second: DungeonLibrary_SolidObject_21
+  - first:
+      213: -8068618164034444511
+    second: DungeonLibrary_SolidObject_22
+  - first:
+      213: 7722378769820051535
+    second: DungeonLibrary_SolidObject_23
+  - first:
+      213: -326053642587814401
+    second: DungeonLibrary_SolidObject_24
+  - first:
+      213: -2141771679562555332
+    second: DungeonLibrary_SolidObject_25
+  - first:
+      213: -1911571098176537354
+    second: DungeonLibrary_SolidObject_26
+  - first:
+      213: -4589512489026895086
+    second: DungeonLibrary_SolidObject_27
+  - first:
+      213: -4064641871907984733
+    second: DungeonLibrary_SolidObject_28
+  - first:
+      213: 1358134913005208129
+    second: DungeonLibrary_SolidObject_29
+  - first:
+      213: -7076035475500693706
+    second: DungeonLibrary_SolidObject_30
+  - first:
+      213: -8418572187415083889
+    second: DungeonLibrary_SolidObject_31
+  - first:
+      213: -7677374565416865127
+    second: DungeonLibrary_SolidObject_32
+  - first:
+      213: -7636196018383567769
+    second: DungeonLibrary_SolidObject_33
+  - first:
+      213: 4325273313180195270
+    second: DungeonLibrary_SolidObject_34
+  - first:
+      213: -5835867609836720741
+    second: DungeonLibrary_SolidObject_35
+  - first:
+      213: 8585298480406976926
+    second: DungeonLibrary_SolidObject_36
+  - first:
+      213: -304529548327563316
+    second: DungeonLibrary_SolidObject_37
+  - first:
+      213: -1102109997446609614
+    second: DungeonLibrary_SolidObject_38
+  - first:
+      213: 6223492072245618370
+    second: DungeonLibrary_SolidObject_39
+  - first:
+      213: -6485063698116378572
+    second: DungeonLibrary_SolidObject_40
+  - first:
+      213: 7177826338436414919
+    second: DungeonLibrary_SolidObject_41
+  - first:
+      213: 2902770137614299720
+    second: DungeonLibrary_SolidObject_42
+  - first:
+      213: 3100141104932032127
+    second: DungeonLibrary_SolidObject_43
+  - first:
+      213: -8927484296394026843
+    second: DungeonLibrary_SolidObject_44
+  - first:
+      213: 1176925278566055133
+    second: DungeonLibrary_SolidObject_45
+  - first:
+      213: 6481803995597468830
+    second: DungeonLibrary_SolidObject_46
+  - first:
+      213: -3125665672050400608
+    second: DungeonLibrary_SolidObject_47
+  - first:
+      213: 4355355348634420083
+    second: DungeonLibrary_SolidObject_48
+  - first:
+      213: -7789059893234838612
+    second: DungeonLibrary_SolidObject_49
+  - first:
+      213: 3909256776023582768
+    second: DungeonLibrary_SolidObject_50
+  - first:
+      213: -7401730532908951234
+    second: DungeonLibrary_SolidObject_51
+  - first:
+      213: -6482377605189221558
+    second: DungeonLibrary_SolidObject_52
+  - first:
+      213: 4008509737873707262
+    second: DungeonLibrary_SolidObject_53
+  - first:
+      213: 3057304067238227398
+    second: DungeonLibrary_SolidObject_54
+  - first:
+      213: 6051331435929798223
+    second: DungeonLibrary_SolidObject_55
+  - first:
+      213: 2168389689206203739
+    second: DungeonLibrary_SolidObject_56
+  - first:
+      213: -337128295827018205
+    second: DungeonLibrary_SolidObject_57
+  - first:
+      213: 340737501272986576
+    second: DungeonLibrary_SolidObject_58
+  - first:
+      213: 453147743944768518
+    second: DungeonLibrary_SolidObject_59
+  - first:
+      213: -1961854504157059407
+    second: DungeonLibrary_SolidObject_60
+  - first:
+      213: -8644531308916367774
+    second: DungeonLibrary_SolidObject 1_0
+  - first:
+      213: -2537743528078486101
+    second: DungeonLibrary_SolidObject 1_0
+  - first:
+      213: 2360157278999313436
+    second: DungeonLibrary_SolidObject 1_1
+  - first:
+      213: 5498440553448489362
+    second: DungeonLibrary_SolidObject 1_2
+  - first:
+      213: -8078001037040036011
+    second: DungeonLibrary_SolidObject 1_3
+  - first:
+      213: -8112109290081735528
+    second: DungeonLibrary_SolidObject 1_4
+  - first:
+      213: 5984412578484241952
+    second: DungeonLibrary_SolidObject 1_5
+  - first:
+      213: -9126848393629588403
+    second: DungeonLibrary_SolidObject 1_6
+  - first:
+      213: -7017520836720709997
+    second: DungeonLibrary_SolidObject 1_7
+  - first:
+      213: -86503835098640260
+    second: DungeonLibrary_SolidObject 1_8
+  - first:
+      213: -5604961531168420845
+    second: DungeonLibrary_SolidObject 1_9
+  - first:
+      213: 776052591982489802
+    second: DungeonLibrary_SolidObject 1_10
+  - first:
+      213: -1986697709590709526
+    second: DungeonLibrary_SolidObject 1_11
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 128
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 43
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1, y: -3}
+        - {x: -2, y: -3}
+        - {x: -2, y: 5}
+        - {x: -1, y: 5}
+        - {x: -1, y: 1}
+        - {x: 2, y: 1}
+        - {x: 2, y: -3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef3b409cb23db8940800000000000000
+      internalID: 5299561571541103614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 38
+        width: 4
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd920b7f29442c390800000000000000
+      internalID: -7799596206640846373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 38
+        width: 4
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd1b7b874754cc0800000000000000
+      internalID: -3727445054752433129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject_3
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 38
+        width: 6
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 378d6451fedc71fa0800000000000000
+      internalID: -5829964765869975437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ca469399296fe60800000000000000
+      internalID: 7995739375233444945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Candles
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 80
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f6e564e485ce7b0800000000000000
+      internalID: -5193679177053737201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desk
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 60
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0038f0893e6ad570800000000000000
+      internalID: 8492221240616431626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Globe
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f402b5edc8bdff120800000000000000
+      internalID: 2449918120385257551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject 1_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 50
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e1c424394780880800000000000000
+      internalID: -8644531308916367774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject 1_1
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 35
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c7ec46a86f0c020800000000000000
+      internalID: 2360157278999313436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DungeonLibrary_SolidObject 1_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29146e62d826e4c40800000000000000
+      internalID: 5498440553448489362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: -41, y: -16}
+      - {x: -13, y: -16}
+      - {x: -11, y: -14}
+      - {x: -11, y: 0}
+      - {x: -13, y: 2}
+      - {x: -15, y: 2}
+      - {x: -15, y: 13}
+      - {x: 32, y: 13}
+      - {x: 34, y: 15}
+      - {x: 34, y: 30}
+      - {x: 48, y: 30}
+      - {x: 45, y: 28}
+      - {x: 45, y: 25}
+      - {x: 47, y: 23}
+      - {x: 47, y: 21}
+      - {x: 44, y: 18}
+      - {x: 44, y: 17}
+      - {x: 47, y: 14}
+      - {x: 52, y: 14}
+      - {x: 55, y: 17}
+      - {x: 55, y: 18}
+      - {x: 52, y: 21}
+      - {x: 52, y: 23}
+      - {x: 54, y: 25}
+      - {x: 54, y: 28}
+      - {x: 51, y: 30}
+      - {x: 64, y: 30}
+      - {x: 64, y: 64}
+      - {x: -64, y: 64}
+      - {x: -64, y: -16}
+      - {x: -60, y: -16}
+      - {x: -60, y: -29}
+      - {x: -63, y: -29}
+      - {x: -64, y: -30}
+      - {x: -64, y: -64}
+      - {x: 2, y: -64}
+      - {x: 2, y: -31}
+      - {x: 0, y: -29}
+      - {x: -41, y: -29}
+    - - {x: 36, y: -44}
+      - {x: 30, y: -38}
+      - {x: 26, y: -37}
+      - {x: 21, y: -41}
+      - {x: 20, y: -44}
+      - {x: 20, y: -49}
+      - {x: 23, y: -52}
+      - {x: 22, y: -55}
+      - {x: 25, y: -58}
+      - {x: 32, y: -58}
+      - {x: 35, y: -55}
+      - {x: 33, y: -51}
+      - {x: 36, y: -48}
+    - - {x: 12, y: -47}
+      - {x: 12, y: -41}
+      - {x: 7, y: -39}
+      - {x: 3, y: -43}
+      - {x: 2, y: -52}
+      - {x: 5, y: -55}
+      - {x: 13, y: -55}
+      - {x: 15, y: -53}
+      - {x: 15, y: -52}
+      - {x: 11, y: -49}
+    - - {x: 4, y: 11}
+      - {x: 1, y: 11}
+      - {x: -1, y: 9}
+      - {x: -1, y: -26}
+      - {x: 1, y: -28}
+      - {x: 4, y: -28}
+      - {x: 6, y: -26}
+      - {x: 7, y: -22}
+      - {x: 7, y: 8}
+    - - {x: 15, y: 11}
+      - {x: 12, y: 8}
+      - {x: 12, y: -22}
+      - {x: 13, y: -26}
+      - {x: 15, y: -28}
+      - {x: 18, y: -28}
+      - {x: 20, y: -26}
+      - {x: 20, y: 9}
+      - {x: 18, y: 11}
+    - - {x: 31, y: 11}
+      - {x: 27, y: 11}
+      - {x: 24, y: 8}
+      - {x: 24, y: -22}
+      - {x: 25, y: -23}
+      - {x: 25, y: -26}
+      - {x: 27, y: -28}
+      - {x: 31, y: -28}
+      - {x: 33, y: -26}
+      - {x: 34, y: -22}
+      - {x: 34, y: 8}
+    - - {x: 40, y: -7}
+      - {x: 37, y: -8}
+      - {x: 37, y: -15}
+      - {x: 36, y: -17}
+      - {x: 40, y: -21}
+      - {x: 43, y: -21}
+      - {x: 46, y: -18}
+      - {x: 46, y: -16}
+      - {x: 44, y: -11}
+    - - {x: 53, y: 1}
+      - {x: 54, y: 2}
+      - {x: 54, y: 6}
+      - {x: 55, y: 8}
+      - {x: 52, y: 11}
+      - {x: 49, y: 11}
+      - {x: 44, y: 7}
+      - {x: 44, y: 2}
+      - {x: 45, y: 0}
+      - {x: 43, y: -2}
+      - {x: 43, y: -3}
+      - {x: 46, y: -6}
+      - {x: 54, y: -6}
+      - {x: 56, y: -4}
+      - {x: 56, y: -2}
+    - - {x: -45, y: 45}
+      - {x: -35, y: 45}
+      - {x: -35, y: 35}
+      - {x: -45, y: 35}
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
