@@ -1,0 +1,42 @@
+***ESSAY HUNT INSTALLATION GUIDE***
+
+[a more detailed guide with pictures can be found here: https://github.bath.ac.uk/jpjf21/OliveGroup_SoftEngCW2/blob/master/EssayHunt%20Documentation/Installation%20Guide%20Team%20Olive.pdf]
+To run Essay Hunt, follow the corresponding steps depending on your operating system. This game is available to play via Mac or Windows.
+
+***Mac***
+1. Visit this link and click 'Download:
+https://github.bath.ac.uk/jpjf21/OliveGroup_SoftEngCW2/blob/master/EssayHunt%20Game/EssayHunt_Mac.zip
+2. Navigate to the folder where you have downloaded the above file (Default name EssayHunt.app) 
+3. Double click the downloaded file
+4. Your game should be open now, if it isn’t continue reading these instructions…
+5. You may see an error message:
+"EssayHunt.app cannot be opened because the developer cannot be verified
+macOS cannot verify that this app is free from malware
+Safari downloaded this file at [timestamp] from github.bath.ac.uk"
+You have two options, 'Move to Bin' OR 'Cancel
+Click Cancel
+5. Go to System Preferences->Security & Privacy. You should see a message at the bottom of this panel like:
+"EssayHunt.app was blocked from use because it is not from an identified developer"
+next to this message, click ‘Open Anyway’:
+6. Your game should now be open!
+
+You may now like to visit the following link to access the user manual to learn a bit more about the game:
+https://github.bath.ac.uk/jpjf21/OliveGroup_SoftEngCW2/blob/master/EssayHunt%20Documentation/User%20Manual%20Team%20Olive.pdf
+This file is also available in the process documentation .zip submission folder.
+********
+
+
+***Windows***
+1. Visit this link and click 'Download':
+https://github.bath.ac.uk/jpjf21/OliveGroup_SoftEngCW2/blob/master/EssayHunt%20Game/EssayHunt_Windows.zip
+2. Navigate to the folder where you have downloaded the above file (Default name EssayHunt_Windows.zip)
+3. Right click the .zip folder and click ‘Extract All’
+4. Wait for the extract to complete
+5. Open the extracted folder (default name EssayHunt_Windows folder)
+6. Double click ‘EssayHunt.exe’ to run your game
+7. Your game should now be open!
+
+You may like to visit the following link to access the user manual to learn a bit more about the game:
+https://github.bath.ac.uk/jpjf21/OliveGroup_SoftEngCW2/blob/master/EssayHunt%20Documentation/User%20Manual%20Team%20Olive.pdf
+This file is also available in the process documentation .zip submission folder.
+********
