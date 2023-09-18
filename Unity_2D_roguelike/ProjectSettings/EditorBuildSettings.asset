@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Title Menu.unity
+    guid: 6b1a45ea2d0128a4fab5f0e7718abb57
+  - enabled: 1
+    path: Assets/Scenes/Character Select1.unity
+    guid: 74100df73bab17e4abb4f2f43203f4d3
+  - enabled: 1
+    path: Assets/Scenes/Pause Menu.unity
+    guid: dde95a70eadd14ec3935a25a29d8adb5
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 242d003236bea4d9a9f7e93359c8cf55
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 5595bf9cb34ca4e2eb9eed3559b8bcd3
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: ed65deb4bdcab4ae4859a09ca3453a73
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: f170dbaaa076847cb9f11f747568235a
+  - enabled: 1
+    path: Assets/Scenes/BossLevel.unity
+    guid: b2c691baec66342ac8f5bcc795fcde7d
+  - enabled: 1
+    path: Assets/Scenes/TutorialTitle.unity
+    guid: c5344ba7fdaf94f91b3df871a0ce3358
+  - enabled: 1
+    path: Assets/Scenes/TutorialPause.unity
+    guid: 38bd024ce2f6d444ba5c4c16331ccf92
+  - enabled: 1
+    path: Assets/Scenes/ArtCutscene.unity
+    guid: 59fd8bf61b2874dca8a22c84384f60dc
+  - enabled: 1
+    path: Assets/Scenes/HistoryCutscene.unity
+    guid: 3abb9f3d72e5c429197577b9502c1bb2
+  - enabled: 1
+    path: Assets/Scenes/MusicCutscene.unity
+    guid: 99f89b37a80a84372b9bc1f38cf16e72
+  - enabled: 1
+    path: Assets/Scenes/ScienceCutscene.unity
+    guid: 63a115733aeec414cae8f283ed497591
+  - enabled: 1
+    path: Assets/Scenes/Victory Scene.unity
+    guid: a980c1f9cc1c840c9a143ead4a1d22e4
+  m_configObjects: {}
